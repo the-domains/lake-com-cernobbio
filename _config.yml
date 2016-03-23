@@ -1,0 +1,28 @@
+name: Lake Com - Cernobbio
+favicon: null
+layout_spectrum: 0.4281140191014856
+typography_spectrum: 0.8172645850572735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3289490200113505
+  lightness: 0.17485263058915734
+  saturation: 0.6443715896457434
+  rhythmicContrast: 0.9202714918646961
+purpose: []

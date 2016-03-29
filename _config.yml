@@ -1,4 +1,4 @@
-name: Lake Com - Cernobbio
+name: Lake Como - Cernobbio
 favicon: null
 layout_spectrum: 0.4281140191014856
 typography_spectrum: 0.8172645850572735
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3289490200113505
-  lightness: 0.17485263058915734
-  saturation: 0.6443715896457434
-  rhythmicContrast: 0.9202714918646961
+  brandStrength: 0.875
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []

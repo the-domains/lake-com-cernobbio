@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lake Como - Cernobbio]]></title>
+        <description><![CDATA[Lake Como - Cernobbio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 22:34:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cernobbio - Wikipedia, the free encyclopedia]]></title>
+            <description><![CDATA[<article><h1>Cernobbio - Wikipedia, the free encyclopedia</h1><p>Cernobbio is a (municipality) in the province of Como, Lombardy, northern Italy. It is located about 40 kilometres (25 mi) north of Milan and about 2 kilometres (1 mi) northwest of Como, on the border with Switzerland and near the Lake Como. The highest peak is the Monte Bisbino, at 1,325 m.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4866133d81daba1f5cbc4e492cd8c769c1e0e263.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Cernobbio</link>
+            <guid isPermaLink="false">333280ea-b03c-494b-8025-825c957a7191</guid>
+            <pubDate>Tue, 29 Mar 2016 22:34:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
